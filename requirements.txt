@@ -1,0 +1,2 @@
+# No third-party dependencies.
+# Recommended Python version: 3.10+
